@@ -1,0 +1,9 @@
+package br.com.javaparaweb.financeiro.web;
+
+public class teste {
+
+	public teste() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

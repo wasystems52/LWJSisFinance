@@ -1,0 +1,12 @@
+package br.com.javaparaweb.financeiro.util;
+
+public class DAOException extends Exception {
+	
+	public DAOException() {
+		
+		
+	}
+	
+	
+
+}
